@@ -1,0 +1,1 @@
+New Shop Version for ${shop.name} : ${shop.latest_version} is release
